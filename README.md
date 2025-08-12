@@ -2,7 +2,8 @@
 
 A clean, minimalist document reader web application that allows you to upload and read PDF and TXT files with customizable reading settings for an optimal reading experience.
 
-![Screenshot_12-8-2025_18295_](https://github.com/user-attachments/assets/a7ac673c-d280-4411-8aad-0bad01737ddb)
+![Screenshot_12-8-2025_184336_](https://github.com/user-attachments/assets/49bdf433-1cbd-42d9-b3e5-070cec3a3551)
+
 
 
 ## ✨ Features
