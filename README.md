@@ -65,8 +65,8 @@ readzen-demo/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/readzen.git
-   cd readzen
+   git clone https://github.com/Aliya-Tariq/ReadZen.git
+   cd ReadZen
    ```
 
 2. **Open in browser**:
@@ -97,12 +97,12 @@ readzen-demo/
 3. **Read comfortably**:
    - Enjoy your document with your personalized reading settings
 
-## 🎯 Supported File Formats
+##  Supported File Formats
 
 - **PDF files** (`.pdf`): Text extraction using PDF.js
 - **Text files** (`.txt`): Direct display with line break formatting
 
-## 🎨 Font Options
+##  Font Options
 
 ReadZen includes 13 carefully selected fonts for optimal reading:
 
@@ -112,7 +112,7 @@ ReadZen includes 13 carefully selected fonts for optimal reading:
 **Serif fonts**:
 - Merriweather, Lora, Georgia, Times New Roman, Crimson Text, Source Serif Pro, Noto Serif
 
-## 🌟 Key Features Explained
+##  Key Features Explained
 
 ### PDF Processing
 - Utilizes Mozilla's PDF.js library for client-side PDF processing
@@ -129,7 +129,7 @@ ReadZen includes 13 carefully selected fonts for optimal reading:
 - Highlight effect when dragging files over the drop zone
 - Supports both drag & drop and traditional file selection
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Save reading preferences to localStorage
 - [ ] Support for more file formats (DOCX, EPUB)
@@ -147,7 +147,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [PDF.js](https://github.com/mozilla/pdf.js) by Mozilla for PDF processing
 - [Google Fonts](https://fonts.google.com) for typography options
