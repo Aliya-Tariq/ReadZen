@@ -2,7 +2,8 @@
 
 A clean, minimalist document reader web application that allows you to upload and read PDF and TXT files with customizable reading settings for an optimal reading experience.
 
-![ReadZen Interface](https://via.placeholder.com/800x400/181818/b5b18d?text=ReadZen+-+Your+Personal+Reader)
+![Screenshot_12-8-2025_18295_](https://github.com/user-attachments/assets/a7ac673c-d280-4411-8aad-0bad01737ddb)
+
 
 ## ✨ Features
 
