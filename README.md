@@ -22,7 +22,7 @@ A clean, minimalist document reader web application that allows you to upload an
 - **Clean UI**: Dark theme with intuitive navigation
 - **Responsive Design**: Works across different screen sizes
 
-## 🚀 Demo
+##  Demo
 
 Simply open `index.html` in your web browser to start using ReadZen. No server setup required!
 
